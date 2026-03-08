@@ -26,7 +26,7 @@ async def on_ready():
 
 @client.event
 async def on_message(message):
-    if message.author.name in T['blacklist']:
+    if message.author.id in T['blacklist']:
         return
     words = message.content.lower().split()
     for i, v in T['reactions'].items():
