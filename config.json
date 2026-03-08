@@ -1,0 +1,9 @@
+{
+	"token": "token-here",
+	"reactions": {
+		"keyword": 123456789012312345,
+                "hello": "🍅",
+                "something_random": [48362739282748292, 49147204710564798]
+	},
+        "blacklist": ["username"]
+}
