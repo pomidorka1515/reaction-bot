@@ -1,3 +1,4 @@
+![demo](https://files.catbox.moe/3rckr8.gif)
 # reaction-bot
 a discord bot which automatically reacts to certain keywords
 # config
