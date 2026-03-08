@@ -10,3 +10,4 @@ a discord bot which automatically reacts to certain keywords
 you can only use custom emojis if the bot is inside the server which has that emoji (otherwise, it will fail)
 probably dont use for multiple servers because it might lag
 
+**credits to [mat](https://github.com/RadianceCascades) for the original code snippet**
